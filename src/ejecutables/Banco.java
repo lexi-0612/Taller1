@@ -41,7 +41,8 @@ public class Banco {
 
         }else {
             System.out.println("Comision Mensual = " + ahorro.getComisionMen());
-            System.out.println("Numero de transacciones = " + contador);
+            System.out.println("Numero de transacciones  = " + contador);
         }
     }
+    // patacones
 }
